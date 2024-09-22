@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa563b59-a7d1-435b-8eb5-e83870f925ad" name="更改" comment="最终版本">
+      <change beforePath="$PROJECT_DIR$/Dbaseline-res-50-ibn-fs-cl.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dbaseline-res-50-ibn-fs.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dbaseline-res-50-ibn.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dbaseline-res-50.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MSbaseline-res-50-ibn-fs-cl.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MSbaseline-res-50-ibn-fs.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MSbaseline-res-50-ibn.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mbaseline-res-50-ibn-fs-cl.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mbaseline-res-50-ibn-fs.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mbaseline-res-50-ibn.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mbaseline-res-50.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/pipeline.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Duke/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Duke/resnet50_ibn_a_model_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Duke/resnet50_ibn_a_model_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Duke/resnet50_ibn_a_model_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Duke/resnet50_ibn_a_optimizer_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Duke/resnet50_ibn_a_optimizer_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Duke/resnet50_ibn_a_optimizer_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Market/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Market/resnet50_ibn_a_model_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Market/resnet50_ibn_a_model_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Market/resnet50_ibn_a_model_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Market/resnet50_ibn_a_optimizer_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Market/resnet50_ibn_a_optimizer_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/Market/resnet50_ibn_a_optimizer_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/msmt17/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/msmt17/resnet50_ibn_a_model_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/msmt17/resnet50_ibn_a_model_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/msmt17/resnet50_ibn_a_model_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/msmt17/resnet50_ibn_a_optimizer_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/msmt17/resnet50_ibn_a_optimizer_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs-cl/msmt17/resnet50_ibn_a_optimizer_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Duke/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Duke/resnet50_ibn_a_model_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Duke/resnet50_ibn_a_model_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Duke/resnet50_ibn_a_model_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Duke/resnet50_ibn_a_optimizer_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Duke/resnet50_ibn_a_optimizer_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Duke/resnet50_ibn_a_optimizer_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Market/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Market/resnet50_ibn_a_model_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Market/resnet50_ibn_a_model_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Market/resnet50_ibn_a_model_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Market/resnet50_ibn_a_optimizer_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Market/resnet50_ibn_a_optimizer_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/Market/resnet50_ibn_a_optimizer_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/msmt/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/msmt/resnet50_ibn_a_model_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/msmt/resnet50_ibn_a_model_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/msmt/resnet50_ibn_a_model_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/msmt/resnet50_ibn_a_optimizer_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/msmt/resnet50_ibn_a_optimizer_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn-fs/msmt/resnet50_ibn_a_optimizer_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Duke/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Duke/resnet50_ibn_a_model_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Duke/resnet50_ibn_a_model_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Duke/resnet50_ibn_a_model_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Duke/resnet50_ibn_a_optimizer_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Duke/resnet50_ibn_a_optimizer_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Duke/resnet50_ibn_a_optimizer_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Market/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Market/resnet50_ibn_a_model_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Market/resnet50_ibn_a_model_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Market/resnet50_ibn_a_model_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Market/resnet50_ibn_a_optimizer_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Market/resnet50_ibn_a_optimizer_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/Market/resnet50_ibn_a_optimizer_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/msmt/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/msmt/resnet50_ibn_a_model_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/msmt/resnet50_ibn_a_model_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/msmt/resnet50_ibn_a_model_120.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/msmt/resnet50_ibn_a_optimizer_100.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/msmt/resnet50_ibn_a_optimizer_110.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/baseline-res-50-ibn/msmt/resnet50_ibn_a_optimizer_120.pth" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2h5LyeUfEjv5nS7cH0xC5fRAoq2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/lucky7/Baseline/tools/train_idea.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.train_idea">
+    <configuration name="DynamicFilter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Baseline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modeling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modeling/DynamicFilter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="attention" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Baseline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modeling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modeling/attention.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="channel_atten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Baseline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modeling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modeling/channel_atten.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="feature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Baseline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modeling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modeling/feature.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_cnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Baseline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/main_cnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_idea" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Baseline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../anaconda3/envs/fastreid/bin/python" />
+      <option name="SDK_NAME" value="fastreid" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/train_idea.py" />
+      <option name="PARAMETERS" value="--config_file=$PROJECT_DIR$/configs/softmax_triplet.yml MODEL.DEVICE_ID &quot;('0')&quot; MODEL.NAME &quot;('resnet50_ibn_a')&quot; MODEL.IF_WITH_CLOSS &quot;('on')&quot; DATASETS.NAMES &quot;('market1501')&quot; DATASETS.ROOT_DIR &quot;('$PROJECT_DIR$/../datasets')&quot; OUTPUT_DIR &quot;('./results/test')&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train_idea" />
+      <item itemvalue="Python.DynamicFilter" />
+      <item itemvalue="Python.attention" />
+      <item itemvalue="Python.channel_atten" />
+      <item itemvalue="Python.feature" />
+      <item itemvalue="Python.main_cnn" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_cnn" />
+        <item itemvalue="Python.feature" />
+        <item itemvalue="Python.attention" />
+        <item itemvalue="Python.DynamicFilter" />
+        <item itemvalue="Python.channel_atten" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fa563b59-a7d1-435b-8eb5-e83870f925ad" name="更改" comment="" />
+      <created>1716879247670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716879247670</updated>
+    </task>
+    <task id="LOCAL-00001" summary="最终版本">
+      <created>1719994981422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719994981422</updated>
+    </task>
+    <task id="LOCAL-00002" summary="最终版本">
+      <created>1724637344913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724637344913</updated>
+    </task>
+    <task id="LOCAL-00003" summary="最终版本">
+      <created>1727005310352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727005310352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="最终版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="最终版本" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/engine/trainer_idea.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
